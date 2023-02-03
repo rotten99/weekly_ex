@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Rename Class to a relevant name Add relevant facade methods
+ * Rename Class to a relevant name and  Add relevant facade methods
  */
 public class UserFacade {
     private Connection con = null;
